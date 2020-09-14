@@ -1,3 +1,6 @@
 [submodule "submodule-lib"]
 	path = submodule-lib
 	url = https://github.com/liminbo/submodule-lib.git
+[submodule "hello-git"]
+	path = hello-git
+	url = https://github.com/liminbo/hello-git.git
